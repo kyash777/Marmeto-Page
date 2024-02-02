@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### DEPLOY-LINK : https://marmeto-page.onrender.com/
 
 
@@ -26,3 +27,6 @@ Open the index.html file in a web browser to view the webpage.
 ### Demo
 For a live demo, [check out the Online Shopping Webpage](https://marmeto-page.onrender.com/) 
 
+=======
+### DEPLOY LINK : https://marmeto-page.onrender.com/
+>>>>>>> ae5a3d546c85ba48de6a841f75dd7c65216ef469
