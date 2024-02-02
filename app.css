@@ -116,16 +116,29 @@
 }
 @media (max-width: 767px) {
     .product-items {
-        flex-basis: 80%; 
         margin-left: 0;
         margin-top: 20px; 
+        flex-basis: 100%; 
     }
     .product-items .price{
+        font-size: 12px;
+    }
+    .compare-price{
         font-size: 12px;
     }
     .heading{
         font-size: 10px;
     }
+    .title{
+        font-size: 15px;
+    }
+    .discount{
+        font-size: 12px;
+    }
+    .buttons button{
+        font-size: 13px;
+    }
+   
 }
 @media (min-width: 768px) and (max-width: 1023px) {
     .product-items {
@@ -134,9 +147,15 @@
         margin-top: 20px; 
     }
     .product-items .price{
-        font-size: 12px;
+        font-size: px;
+    }
+    .compare-price{
+        font-size: 15px;
     }
     .heading{
-        font-size: 10px;
+        font-size: 12px;
+    }
+    .title{
+        font-size: 15px;
     }
 }
